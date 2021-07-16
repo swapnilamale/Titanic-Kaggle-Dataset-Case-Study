@@ -2,5 +2,5 @@
 - Data Visualization
 - Data Cleaning
 - Linear Regression
-- numpy/pandas/matplotlib/seaborn/HeAtmap
+- numpy/pandas/matplotlib/seaborn/Heatmap
 - Deriving Insights
