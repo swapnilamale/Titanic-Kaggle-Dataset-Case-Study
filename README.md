@@ -1,1 +1,1 @@
-# Titanic-Kaggle-Dataset-Case-Ttudy
+# Titanic-Kaggle-Dataset-Case-Study
