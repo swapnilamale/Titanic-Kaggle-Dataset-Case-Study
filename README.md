@@ -3,3 +3,4 @@
 -Data Cleaning
 -Linear Regression
 -numpy/pandas/matplotlib/seaborn/HeAtmap
+- Deriving Insights
